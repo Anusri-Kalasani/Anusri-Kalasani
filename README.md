@@ -4,9 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=FF69B4&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Software+Developer;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anusri-Kalasani&theme=radical&show_icons=true&hide_border=false" height="160px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anusri-Kalasani&theme=radical&hide_border=false" height="160px"/>
-
 ---
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anusri-Kalasani&layout=compact&theme=radical&hide_border=false"/>
